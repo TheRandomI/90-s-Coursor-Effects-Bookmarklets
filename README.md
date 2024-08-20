@@ -1,6 +1,6 @@
 # 90-s-Coursor-Effects-Bookmarklets
-A quick little bookmarklet system to import 90's coursor effects <br/>
+A quick little bookmarklet system to import 90's coursor effects on to any page <br/>
 This guy made the effects ----> https://tholman.com/cursor-effects/ go look at it <br/>
-Suggest going to about blank, turning on all the effects, and going wild 😁😁😁 <br/> 
+I suggest going to about blank, turning on all the effects, and going wild 😁😁😁 <br/> 
 This is perfect for ppl with adhd <br/>
 😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😸😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁
